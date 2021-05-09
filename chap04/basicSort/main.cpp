@@ -14,6 +14,9 @@ int main(void)
         cin >> arr[i];
     cout << "Choose sorting algorithms\n";
     cout << "1. selectionsort\n";
+    cout << "2. bubblesort\n";
+    cout << "3. impbubblesort\n";
+    cout << "4. insertionsort\n";
     cin >> choose;
     switch (choose)
     {
@@ -22,6 +25,12 @@ int main(void)
         break;
     case 2:
         bubblesort(arr, size);
+        break;
+    case 3:
+        impbubblesort(arr, size);
+        break;
+    case 4:
+        insertionsort(arr, size);
         break;
     case 0:
         break;
