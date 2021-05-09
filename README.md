@@ -1,4 +1,4 @@
-# easy-learn-algo
+# 알고리즘 공부
 
 ![alt text](./resources/book_cover.jpg?raw=true)
 
