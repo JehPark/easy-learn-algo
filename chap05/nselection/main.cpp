@@ -14,6 +14,6 @@ int main(void)
         cin >> arr[i];
     cout << "Choose i th number\n";
     cin >> choose;
-	cout << "Result: " << select(arr, 0, size - 1, choose) << "\n";
+    cout << "Result: " << select(arr, 0, size - 1, choose) << "\n";
     return (0);
 }
