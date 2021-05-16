@@ -12,5 +12,5 @@
 정리 내용은 42서울의 동아리인 팔만코딩경의 노션에 올라가있습니다.  
 
 
-chap04 : https://80000coding.oopy.io/c106764c-68d7-49b6-9b39-800719df9c58
+chap04 : https://80000coding.oopy.io/c106764c-68d7-49b6-9b39-800719df9c58  
 chap05 : https://80000coding.oopy.io/bbaeef13-60f4-42b1-a217-30509aad8aec  
