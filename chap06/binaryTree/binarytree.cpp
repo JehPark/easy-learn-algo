@@ -57,7 +57,14 @@ t_node *treeInsertIter(t_node *root, int data)
     return (root);
 }
 
-void tree(t_node *root, t_node *target, t_node *parent)
+void deletion(t_node *root, t_node *target, t_node *parent)
+{
+    treeDelete(root, target, parent);
+    if (!(target->left && target->right))
+        delete target;
+}
+
+void treeDelete(t_node *root, t_node *target, t_node *parent)
 {
     if (root == target)
         root = deleteNode(target);
@@ -84,11 +91,12 @@ t_node *deleteNode(t_node *target)
             parent = mleft;
             mleft = mleft->left;
         }
-        target = mleft;
+        target->data = mleft->data;
         if (mleft == target->right)
             target->right = mleft->right;
         else
             parent->left = mleft->right;
+        delete mleft;
         return (target);
     }
 }
