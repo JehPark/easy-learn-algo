@@ -18,7 +18,7 @@ chap06 : https://80000coding.oopy.io/fa88b03a-df1b-4269-ac2c-c0263c914b11
 
 
 ## 읽고 있는 책
-- 객체지향 사실과 오해 조영호()
+- 객체지향 사실과 오해 조영호(check)
 - Cracking the coding interview (check)
 - 자바의 정석 남궁성
 - 코드 찰스 펫졸드
