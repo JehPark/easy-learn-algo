@@ -14,3 +14,11 @@
 
 chap04 : https://80000coding.oopy.io/c106764c-68d7-49b6-9b39-800719df9c58  
 chap05 : https://80000coding.oopy.io/bbaeef13-60f4-42b1-a217-30509aad8aec  
+chap06 : https://80000coding.oopy.io/fa88b03a-df1b-4269-ac2c-c0263c914b11  
+
+
+## 읽고 있는 책
+- 객체지향 사실과 오해 조영호(check)
+- Cracking the coding interview (check)
+- 자바의 정석 남궁성
+- 코드 찰스 펫졸드
